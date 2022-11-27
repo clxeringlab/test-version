@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Create new issue
     url: https://new-issue.vuejs.org/
-    about: Please use the following link to create a new issue.
+    about: Please use the following link to create a new issue.112
   - name: Patreon
     url: https://www.patreon.com/evanyou
     about: Love Vue.js? Please consider supporting us via Patreon.
